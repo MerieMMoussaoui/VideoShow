@@ -2,6 +2,7 @@ package package1;
 
 import java.awt.Graphics;
 
+  /* classe cercle */
 public class Cercle {
 
 	 //-------------- constantes ----------------------------------------
